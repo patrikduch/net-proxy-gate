@@ -1,0 +1,114 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.log
+*.vspscc
+*.user
+*.userosscache
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.browser
+*.ilk
+*.meta
+*.tmp
+*.TMP
+*.map
+*.rdl.data
+*.cache
+*.ser
+*.svclog
+*.scc
+*.swp
+
+# Visual Studio files
+*.pidb
+*.suo
+*.sdf
+*.config
+*.csproj.user
+*.vbproj.user
+*.sqlproj.user
+*.pubxml
+*.pubxml.user
+*.pubxml.publishproj
+*.pfx
+*.snk
+ipch/
+*.tlog/
+*.vspscc
+*.vssscc
+*.vsp
+*.vsdx
+*.vsc
+.vs/
+*.userprefs
+*.csproj
+*.vsproj
+*.vbproj
+*.dbmdl
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored
+**/[Pp]ackages/
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# Enable "build/" folder in the NuGet Packages folder
+!**/[Pp]ackages/build/
+
+# ReSharper / Rider
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+*.sln.docstates
+
+# Azure DevOps continuous integration
+.azure-pipelines.yml
+pipeline-logs.json
+
+# Others
+*.ser
+*.[Pp]ublish.xml
+*.pubxml
+psmdcp
+
+# Include settings that are specific to the ASP.NET projects
+*.ascx
+*.asmx
+*.aspx
+*.svc
+
+# Exclude custom settings files
+*.settings
